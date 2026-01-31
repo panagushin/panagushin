@@ -2,7 +2,7 @@
 
 I work on financial and crypto systems where failures have real consequences.
 
-Over 15+ years, my work has focused on:
+Over the past 15 years, my work has focused on:
 - trading and financial infrastructure
 - blockchain protocols and token models
 - systems that handle money, risk, and irreversible operations
@@ -20,7 +20,7 @@ Crypto trading system.
 
 - Designed and implemented the core system architecture  
 - Session-based accounting with explicit risk isolation  
-- Technical owner responsible for system behavior in production
+- Responsible for system behavior in production
 
 ---
 
@@ -35,10 +35,9 @@ Self-custodial crypto wallet.
 ## Selected Work
 
 - **[dxs-stas-sdk](https://github.com/dxsapp/dxs-stas-sdk)**  
-  TypeScript SDK for building and reading Bitcoin SV transactions, with first-class support for STAS token scripts.
+  TypeScript SDK for building and reading Bitcoin SV transactions, with support for STAS token scripts.
 
 - **[dxs-consigliere](https://github.com/dxsapp/dxs-consigliere)**  
-  The DXS-built BSV STAS indexer with Back-to-Genesis resolution, powered by RavenDB and real-time SignalR updates.
+  BSV STAS indexer with Back-to-Genesis resolution, using RavenDB and real-time SignalR updates.
 
-I’m open to CTO or principal architect roles in early-stage crypto / fintech teams
-where system design and risk modeling are taken seriously.
+I’m open to CTO or principal architect roles in early-stage crypto / fintech teams where system design and risk modeling are central.
