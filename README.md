@@ -1,16 +1,26 @@
-## Hi there 👋
+# CTO / System Architect — Crypto & FinTech
 
-<!--
-**panagushin/panagushin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO-level engineer with 15+ years of experience designing and owning high-risk financial and crypto systems.
 
-Here are some ideas to get you started:
+My work focuses on:
+- trading and financial infrastructure
+- blockchain protocols and token models
+- system architectures with strict correctness and bounded risk
+- protocol-level guarantees over ad-hoc business logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In recent roles, I operated as a solo technical owner, covering the full CTO scope:
+from system and economic design to implementation and production readiness.
+I actively use AI tooling to replace and outperform traditional development teams up to senior level.
+
+## Selected Work
+
+- **[dxs-stas-sdk](https://github.com/dxsapp/dxs-stas-sdk)**
+  Blockchain token infrastructure SDK with a focus on correctness, transfer invariants,
+  and protocol-level guarantees.
+
+- **[dxs-consigliere](https://github.com/dxsapp/dxs-consigliere)**  
+  System-level decision and constraint framework designed for deterministic,
+  correctness-first financial logic.
+
+I’m open to CTO or principal architect roles in early-stage crypto / fintech teams,
+where architectural quality and risk discipline are critical.
